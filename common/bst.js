@@ -23,6 +23,7 @@ export class BST {
     }
   }
 
+  //getting the root
   getRootNode(){
     return this.root
   }
